@@ -1,4 +1,4 @@
-import{S as nn,i as rn,s as tn,K as de,g as j,k as W,l as P,m as q,d as O,q as U,r as L,a as Ue,v as E,L as fe,M as he,N as pe,t as ge,b as ve,U as Re,P as Ln,Q as Nn,n as Oe,R as Mi,V as ji,T as cn,c as yn,W as Pi,X as qi,f as Bi,o as $i}from"./index.b89b4bd1.js";import{_ as Hi,c as pi,M as zi,O as Vi,Q as Ri,d as Yi,e as Ce,g as pn,f as Wi,h as Ui,j as we,l as Gi,B as Ki,b as Fn}from"./index.11b70695.js";import{d as Qi,i as Zi,e as Xi,m as Ji,p as er,w as nr,g as ir,n as rr,h as tr,j as or,k as ar,l as lr,o as sr,q as cr,r as Mn,s as jn,t as ur,A as dr,B as fr,b as hr,D as pr,a as gr,L as vr,c as mr,S as _r,u as yr,v as br,x as wr,y as xr,z as kr,E as Er,F as bn,M as Ar,f as Sr,C as Cr}from"./http_client.31b4d3d8.js";import{H as Ir,S as Dr}from"./Header.736fa60d.js";import{w as Tr}from"./paths.f80634dc.js";import{m as Pn}from"./model_out.448f9c31.js";const Or={"@@functional/placeholder":!0};var Lr=Hi(function(n){return Qi(n.length,n)});const qn=Lr;var Nr=pi(function(n,i){for(var r={},t={},a=0,o=n.length;a<o;)t[n[a]]=1,a+=1;for(var l in i)t.hasOwnProperty(l)||(r[l]=i[l]);return r});const Bn=Nr;var Fr=pi(function(n,i){for(var r=[],t=0,a=Math.min(n.length,i.length);t<a;)r[t]=[n[t],i[t]],t+=1;return r});const Mr=Fr,jr=Object.freeze(Object.defineProperty({__proto__:null},Symbol.toStringTag,{value:"Module"}));/*! js-yaml 4.1.0 https://github.com/nodeca/js-yaml @license MIT */function gi(e){return typeof e>"u"||e===null}function Pr(e){return typeof e=="object"&&e!==null}function qr(e){return Array.isArray(e)?e:gi(e)?[]:[e]}function Br(e,n){var i,r,t,a;if(n)for(a=Object.keys(n),i=0,r=a.length;i<r;i+=1)t=a[i],e[t]=n[t];return e}function $r(e,n){var i="",r;for(r=0;r<n;r+=1)i+=e;return i}function Hr(e){return e===0&&Number.NEGATIVE_INFINITY===1/e}var zr=gi,Vr=Pr,Rr=qr,Yr=$r,Wr=Hr,Ur=Br,me={isNothing:zr,isObject:Vr,toArray:Rr,repeat:Yr,isNegativeZero:Wr,extend:Ur};function vi(e,n){var i="",r=e.reason||"(unknown reason)";return e.mark?(e.mark.name&&(i+='in "'+e.mark.name+'" '),i+="("+(e.mark.line+1)+":"+(e.mark.column+1)+")",!n&&e.mark.snippet&&(i+=`
+import{S as nn,i as rn,s as tn,K as de,g as j,k as W,l as P,m as q,d as O,q as U,r as L,a as Ue,v as E,L as fe,M as he,N as pe,t as ge,b as ve,U as Re,P as Ln,Q as Nn,n as Oe,R as Mi,V as ji,T as cn,c as yn,W as Pi,X as qi,f as Bi,o as $i}from"./index.b89b4bd1.js";import{_ as Hi,c as pi,M as zi,O as Vi,Q as Ri,d as Yi,e as Ce,g as pn,f as Wi,h as Ui,j as we,l as Gi,B as Ki,b as Fn}from"./index.528aeaad.js";import{d as Qi,i as Zi,e as Xi,m as Ji,p as er,w as nr,g as ir,n as rr,h as tr,j as or,k as ar,l as lr,o as sr,q as cr,r as Mn,s as jn,t as ur,A as dr,B as fr,b as hr,D as pr,a as gr,L as vr,c as mr,S as _r,u as yr,v as br,x as wr,y as xr,z as kr,E as Er,F as bn,M as Ar,f as Sr,C as Cr}from"./http_client.300893c5.js";import{H as Ir,S as Dr}from"./Header.736fa60d.js";import{w as Tr}from"./paths.51c36b96.js";import{m as Pn}from"./model_out.fe15d60d.js";const Or={"@@functional/placeholder":!0};var Lr=Hi(function(n){return Qi(n.length,n)});const qn=Lr;var Nr=pi(function(n,i){for(var r={},t={},a=0,o=n.length;a<o;)t[n[a]]=1,a+=1;for(var l in i)t.hasOwnProperty(l)||(r[l]=i[l]);return r});const Bn=Nr;var Fr=pi(function(n,i){for(var r=[],t=0,a=Math.min(n.length,i.length);t<a;)r[t]=[n[t],i[t]],t+=1;return r});const Mr=Fr,jr=Object.freeze(Object.defineProperty({__proto__:null},Symbol.toStringTag,{value:"Module"}));/*! js-yaml 4.1.0 https://github.com/nodeca/js-yaml @license MIT */function gi(e){return typeof e>"u"||e===null}function Pr(e){return typeof e=="object"&&e!==null}function qr(e){return Array.isArray(e)?e:gi(e)?[]:[e]}function Br(e,n){var i,r,t,a;if(n)for(a=Object.keys(n),i=0,r=a.length;i<r;i+=1)t=a[i],e[t]=n[t];return e}function $r(e,n){var i="",r;for(r=0;r<n;r+=1)i+=e;return i}function Hr(e){return e===0&&Number.NEGATIVE_INFINITY===1/e}var zr=gi,Vr=Pr,Rr=qr,Yr=$r,Wr=Hr,Ur=Br,me={isNothing:zr,isObject:Vr,toArray:Rr,repeat:Yr,isNegativeZero:Wr,extend:Ur};function vi(e,n){var i="",r=e.reason||"(unknown reason)";return e.mark?(e.mark.name&&(i+='in "'+e.mark.name+'" '),i+="("+(e.mark.line+1)+":"+(e.mark.column+1)+")",!n&&e.mark.snippet&&(i+=`
 
 `+e.mark.snippet),r+" "+i):r}function en(e,n){Error.call(this),this.name="YAMLException",this.reason=e,this.mark=n,this.message=vi(this,!1),Error.captureStackTrace?Error.captureStackTrace(this,this.constructor):this.stack=new Error().stack||""}en.prototype=Object.create(Error.prototype);en.prototype.constructor=en;en.prototype.toString=function(n){return this.name+": "+vi(this,n)};var Te=en;function gn(e,n,i,r,t){var a="",o="",l=Math.floor(t/2)-1;return r-n>l&&(a=" ... ",n=r-l+a.length),i-r>l&&(o=" ...",i=r+l-o.length),{str:a+e.slice(n,i).replace(/\t/g,"→")+o,pos:r-n+a.length}}function vn(e,n){return me.repeat(" ",n-e.length)+e}function Gr(e,n){if(n=Object.create(n||null),!e.buffer)return null;n.maxLength||(n.maxLength=79),typeof n.indent!="number"&&(n.indent=1),typeof n.linesBefore!="number"&&(n.linesBefore=3),typeof n.linesAfter!="number"&&(n.linesAfter=2);for(var i=/\r?\n|\r|\0/g,r=[0],t=[],a,o=-1;a=i.exec(e.buffer);)t.push(a.index),r.push(a.index+a[0].length),e.position<=a.index&&o<0&&(o=r.length-2);o<0&&(o=r.length-1);var l="",c,s,f=Math.min(e.line+n.linesAfter,t.length).toString().length,h=n.maxLength-(n.indent+f+3);for(c=1;c<=n.linesBefore&&!(o-c<0);c++)s=gn(e.buffer,r[o-c],t[o-c],e.position-(r[o]-r[o-c]),h),l=me.repeat(" ",n.indent)+vn((e.line-c+1).toString(),f)+" | "+s.str+`
 `+l;for(s=gn(e.buffer,r[o],t[o],e.position,h),l+=me.repeat(" ",n.indent)+vn((e.line+1).toString(),f)+" | "+s.str+`
@@ -81,7 +81,7 @@ import{S as nn,i as rn,s as tn,K as de,g as j,k as W,l as P,m as q,d as O,q as U
     exit_multiplier: 0.8
   save: true
 - type: query
-  name: payout_combined 
+  name: severity_combined 
   db: duckdb
   query: ""
   defaults:
@@ -209,7 +209,7 @@ views:
   - backend: overlay
     target: overlay
 - type: BarGrouped   
-  name: payout_combined
+  name: severity_combined
   selector: "#chart-3"
   xAttr: year
   yAttr: value
@@ -220,9 +220,9 @@ views:
     - sum_early
     - sum_late
     - vegetation
-    - combined_payout
+    - combined_severity
   data:
-  - backend: payout_combined
+  - backend: severity_combined
   - backend: badyear
   - backend: overlay
     target: overlay
@@ -246,7 +246,7 @@ views:
           region: $gid
         - backend: crop_cal
           region: $gid
-        - backend: payout_combined 
+        - backend: severity_combined 
           region: $gid
         - backend: badyear
           region: $gid
@@ -277,7 +277,7 @@ views:
   interactions:
   - type: change
     to: 
-    - backend: payout_combined 
+    - backend: severity_combined 
       sum_early_first: $left
       sum_early_last: $right
     - backend: mtb 
@@ -296,7 +296,7 @@ views:
   interactions:
   - type: change
     to: 
-    - backend: payout_combined
+    - backend: severity_combined
       sum_late_first: $left
       sum_late_last: $right
     - backend: mtb 
@@ -315,7 +315,7 @@ views:
   interactions:
   - type: change
     to:
-    - backend: payout_combined 
+    - backend: severity_combined 
       vegetation_first: $left
       vegetation_last: $right
     - backend: mtb 
@@ -329,9 +329,9 @@ views:
   name: Alert
   selector: "#alert"
   threshold_string: "1.0"
-  key: "combined_payout"
+  key: "combined_severity"
   data:
-    - backend: payout_combined
+    - backend: severity_combined
   interactions:
   - type: valid
 dependencies: 
